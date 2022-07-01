@@ -1,0 +1,19 @@
+:root{
+    --background-color: #1d1d1d;
+    --color: #fff;
+}
+body{
+    color: white;
+}
+.section1Foter{
+    color: white;
+    
+}
+.copyWhite{
+    color: white;
+
+}
+
+nav a {
+    color: white !important;
+}

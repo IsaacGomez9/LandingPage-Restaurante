@@ -1,0 +1,124 @@
+{
+    "platillos": [
+        {
+            "id": 1,
+            "name": "Breakfast",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Ramen",
+            "img": ""
+        },
+        {
+            "id": 2,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Ramen"
+        },
+        {
+            "id": 3,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Ramen"
+        },
+        {
+            "id": 4,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Ramen"
+        },
+        {
+            "id": 5,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "BreakFast",
+            "img" : "../Group 8448.png"
+        },
+        {
+            "id": 6,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "BreakFast",
+            "img" : "../Group 8448.png"
+
+        },
+        {
+            "id": 7,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "BreakFast",
+            "img" : "../Group 8448.png"
+
+        },
+        {
+            "id": 8,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "BreakFast",
+            "img" : "../Group 8448.png"
+        },
+        {
+            "id": 9,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Lunch",
+            "img" : "../Group 8449 (1).png"
+
+        },
+        {
+            "id": 10,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Lunch",
+            "img" : "../Group 8449 (1).png"
+
+        },
+        {
+            "id": 11,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Lunch",
+            "img" : "../Group 8449 (1).png"
+
+        },
+        {
+            "id": 12,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Lunch",
+            "img" : "../Group 8449 (1).png"
+
+        },
+        {
+            "id": 13,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Dinner",
+            "img" : "../Group 8450 (1).png"
+
+        },
+        {
+            "id": 14,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Dinner",
+            "img" : "../Group 8450 (1).png"
+
+        },
+        {
+            "id": 15,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Dinner",
+            "img" : "../Group 8450 (1).png"
+
+        },
+        {
+            "id": 16,
+            "name": "platillo2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "categories": "Dinner",
+            "img" : "../Group 8450 (1).png"
+
+        }
+       
+    ]
+}

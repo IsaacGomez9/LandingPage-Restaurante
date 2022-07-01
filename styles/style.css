@@ -1,0 +1,129 @@
+/* Variables */
+body {
+  background-color: #ffc26b;
+  font-family: "Sofia Pro", sans-serif;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+.colorPreference {
+  background-color: var(--background-color) !important;
+}
+
+.card {
+  height: 390px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  background: linear-gradient(179.69deg, rgba(255, 255, 255, 0) -31.53%, #f54748 303.75%);
+}
+
+.contChef img {
+  height: 600px;
+}
+
+.pruebaMedia img {
+  width: 35px;
+}
+
+.cont_img1 img {
+  height: 550px;
+}
+
+.cont_1 {
+  margin-top: 10rem !important;
+}
+
+@media (max-width: 600px) {
+  .pruebaMedia {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+    margin-top: 5rem;
+  }
+  .img_1 {
+    width: 100% !important;
+  }
+  .contSpecialOf {
+    margin-top: 20rem !important;
+  }
+  .platosJunt {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
+  }
+  .ordenOnline {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+  }
+  .textMenuAlways {
+    margin-top: 35rem !important;
+  }
+  .botonesAll {
+    margin-top: 5rem !important;
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
+  }
+  .itsNowMore {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+    margin-top: 5rem !important;
+    text-align: center;
+  }
+  .textItsNowMore1 {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .chef1 {
+    width: 100% !important;
+  }
+  .textItsNowMore {
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0 auto !important;
+  }
+  .foter {
+    margin-top: 15rem;
+  }
+  .tarjetasPlatos {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 50%;
+    margin: 0 auto;
+  }
+  .imgChefF {
+    height: 400px;
+  }
+  .appStoreImg {
+    width: 75%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0 auto;
+  }
+  .section1Foter {
+    width: 85%;
+  }
+}
+/*# sourceMappingURL=style.css.map */
